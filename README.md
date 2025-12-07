@@ -1,4 +1,5 @@
-![Argo CD Logo](./images/argocd-logo.png)
+![Argo CD Logo]<img src="./images/argocd-logo.png" alt="Argo CD Logo" width="80"/>
+
 
 # Retail Store – ArgoCD GitOps Manifests
 
