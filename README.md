@@ -1,6 +1,7 @@
-![Retail Store Logo](https://your-image-url.com/logo.png)
+![Argo CD Logo](./images/argocd-logo.png)
 
-Retail Store – ArgoCD GitOps Manifests
+# Retail Store – ArgoCD GitOps Manifests
+
 
 This repository contains the GitOps deployment manifests for the Retail Store microservices application.
 It is designed to work with ArgoCD using the App-of-Apps pattern, allowing a full multi-service deployment through Git.
